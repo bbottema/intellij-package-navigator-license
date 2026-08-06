@@ -1,12 +1,12 @@
 OPEN-SOURCE AND THIRD-PARTY NOTICES
 ===================================
 
-AtlasArc 1.0.1
+AtlasArc 1.0.0
 Copyright (c) 2026 Seamra Works. All rights reserved.
 
 This distribution includes the components listed below. Complete license and
 attribution payloads are included under third-party/. The machine-readable
-CycloneDX SBOM is included at sbom/AtlasArc-1.0.1.cdx.json.
+CycloneDX SBOM is included at sbom/AtlasArc-1.0.0.cdx.json.
 
 AtlasArc open-source runtime
 ----------------------------
@@ -207,6 +207,13 @@ detekt complexity algorithms (adapted source) upstream 5afa793
   Attribution: Adapted from detekt; modifications documented in the included notice
   Project: https://github.com/detekt/detekt
   Included files: third-party/licenses/Apache-2.0.txt, third-party/notices/detekt-adaptation.md
+
+JetBrains Marketplace license verifier (adapted source) upstream be50246
+  Identity: pkg:github/JetBrains/marketplace-makemecoffee-plugin@be502461d636a659bcb1b7eba850e6b8f4d54fce
+  License: Apache-2.0
+  Attribution: Copyright JetBrains s.r.o. and contributors; modifications documented in the included notice
+  Project: https://github.com/JetBrains/marketplace-makemecoffee-plugin
+  Included files: third-party/licenses/Apache-2.0.txt, third-party/notices/jetbrains-marketplace-licensing-adaptation.md
 
 PMD complexity algorithms (adapted source) upstream d1bbf1c
   Identity: pkg:github/pmd/pmd@d1bbf1c5b6c6ca921e84def795193179bb062edf
